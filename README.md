@@ -20,4 +20,5 @@
 [OBS_Twitch_chat_CSS](https://github.com/Boggartmob/OBS_Twitch_chat_CSS)
 - [Twitch Developer Document](https://dev.twitch.tv/docs/embed/chat/)
 
-#OBS #chat #CSS #chatcss
+## Support me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6ZCP7)
